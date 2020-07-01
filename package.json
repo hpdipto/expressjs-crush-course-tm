@@ -1,0 +1,19 @@
+{
+  "name": "ExpressJS_Crash_Course",
+  "version": "1.0.0",
+  "description": "Express JS Crush Course from Traversy Media",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
